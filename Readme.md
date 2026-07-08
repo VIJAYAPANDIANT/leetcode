@@ -55,7 +55,7 @@ Below is a snapshot of some highlighted problems solved during this journey:
    ```
 2. **Navigate to a folder**:
    ```bash
-   cd leetcode
+   cd Easy
    ```
 3. **Open the solution**:
    Each `.java` file contains the problem statement and the optimized solution.
