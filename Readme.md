@@ -51,7 +51,7 @@ Below is a snapshot of some highlighted problems solved during this journey:
 ## 🚀 How to Use
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/VIJAYAPANDIANT/LeetCode.git
+   git clone https://github.com/VIJAYAPANDIANT/leetcode.git
    ```
 2. **Navigate to a folder**:
    ```bash
